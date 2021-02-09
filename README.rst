@@ -1,5 +1,3 @@
-# Example Package
+# Metering
 
-This is a simple example package. You can use
-[Github-flavored Markdown](https://guides.github.com/features/mastering-markdown/)
-to write your content.
+##Power grid energy measurement and monitoring system
